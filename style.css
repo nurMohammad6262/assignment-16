@@ -1,0 +1,119 @@
+/* headerSection */
+.headerSection {
+    background: #101446;
+    padding: 10px 0;
+}
+
+.logo img {
+    width: 75px;
+    margin-left: 67px;
+}
+
+.menu ul {
+    text-align: right;
+    margin-bottom: 0px;
+}
+.menu ul li {
+    display: inline-block;
+}
+.menu ul li a {
+    display: block;
+    color: white;
+    margin: 8px 13px;
+}
+.menu ul li a:hover{}
+
+/* heroSection */
+.heroSection {
+    background-image: url(https://i.ibb.co/gdT14Gt/intro-bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 231px 0;
+    color: white;
+}
+.heroSection p {
+    margin: 25px;
+    font-size: 20px;
+}
+
+.heroSection a {
+    background: #337ab7;
+    display: inline-block;
+    color: white;
+    padding: 9px 16px;
+    border-radius: 5px;
+}
+/* teemSection */
+.teemSection {
+    background: #bac1f3;
+    padding: 80px;
+    text-align: center;
+}
+.teemSection h1 {
+    padding: 60px;
+   
+    font-size: 73px;
+}
+.teemSection h2 {
+    font-size: 16px;
+    
+    margin: 8px;
+}
+.teemSection p {
+    padding: 10px;
+    font-size: 13px;
+    width: 220px;
+    margin: auto;
+}
+.teemSection a {
+    background: #337ab7;
+    display: inline-block;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+/* aboutSection */
+.aboutSection {
+    background: #c2d4ea;
+    padding: 70px 0;
+}
+.aboutSection h1 {
+    text-align: center;
+    padding: 44px 0;
+    font-size: 69px;
+}
+.photo p {
+    padding: 12px 0;
+    text-align: left;
+    width: 511px;
+}
+.list ul {
+    list-style: none;
+    margin-left: -189px;
+    line-height: 2;
+}
+.about-right {
+    padding: 23px 0;
+    width: 512px;
+    /* text-align: left; */
+}
+/* contactSection */
+.contactSection {
+    padding: 40px 0;
+}
+.contactSection h1 {
+    text-align: center;
+    padding: 37px 0;
+    font-size: 60px;
+}
+.contactSection label{
+    padding: 5px 0;
+}
+/* footerSection */
+.footerSection {
+    background: #0062d3;
+    color: white;
+    text-align: center;
+    padding: 28px 0;
+}
